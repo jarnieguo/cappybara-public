@@ -2,6 +2,8 @@
 
 Proof-of-concept Android app to demonstrate a mobile framework for automatic and manual closed-captioning of user-generated video content. 
 
+Cappybara is compatible with devices with minimum API level 26, or Android version 8.0.0 and up.
+
 ## Usage
 Build and run Cappybara by opening this repository as a project in Android Studio.
 
